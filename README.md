@@ -23,4 +23,4 @@
   
 </div>
 
-<img src= img/hacker.gif>
+<img src= img/hacker.gif align = center>
