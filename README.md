@@ -12,7 +12,8 @@
     &#128304; <strong>Cada arquivo está na branch do seu respectivo bimestre &#128304;</strong>
   </div>
   <div>
-     <strong>Olhar com atenção os nomes de cada atividade para evitar alteração &#128175; desnecessária &#128175;</strong>
+     <strong>Olhar com atenção os nomes de cada atividade para evitar alteração</strong>
+     <strong>&#128175; desnecessária &#128175;</strong>
   </div>
   <div>
     &#9989; <strong>Sempre checar com cuidado se está na Branch correta &#9989;</strong>
