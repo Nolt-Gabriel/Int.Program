@@ -21,6 +21,7 @@
     &#10071;&#65039; <strong>Apenas atividades de Int.Programação nesse repositório</strong> &#10071;&#65039;
   </div>
   
+  <img src= img/hacker.gif >
 </div>
 
-<img src= img/hacker.gif align = center>
+
