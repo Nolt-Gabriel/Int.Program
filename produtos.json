@@ -1,0 +1,12 @@
+{
+    "2": {
+        "nome": "Shampoo",
+        "preco": 23.99,
+        "quantidade": 0
+    },
+    "1": {
+        "nome": "Notebook",
+        "preco": 2.0,
+        "quantidade": 1
+    }
+}
